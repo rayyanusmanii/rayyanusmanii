@@ -1,5 +1,5 @@
 # 💫 About Me:
-hey, I'm rayyan, a first-year mathematics student at the university of waterloo, passionate about creating intuitive web apps with Python & React.
+hey, I'm rayyan, a first-year mathematics student at the university of waterloo, passionate about creating intuitive web apps with python & react.
 
 if you're interested in my work, drop me a line on linkedin, and let's connect over matcha!
 
