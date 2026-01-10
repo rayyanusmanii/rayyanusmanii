@@ -1,9 +1,9 @@
-# 💫 About Me:
+# About Me
 hey, I'm rayyan, a first-year mathematics student at the university of waterloo, passionate about creating intuitive web apps with python & react.
 
 if you're interested in my work, drop me a line on linkedin, and let's connect over matcha!
 
-## 🚀 Featured Projects
+## Featured Projects
 **check out my projects!**
 
 - [**NearMe**](https://nrme.site/) — location-based web app for discovering nearby places and services  
@@ -11,11 +11,11 @@ if you're interested in my work, drop me a line on linkedin, and let's connect o
 - [**LinkClean**](https://chromewebstore.google.com/detail/jmbnaldbichedgpjbmfjflgincclpgkh?utm_source=item-share-cb) — Chrome extension that filters LinkedIn feeds to surface internship-relevant posts
  
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayyanusmanii/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:usmanir21@gmail.com)
 
-# 💻 Tech Stack:
+# Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
