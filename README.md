@@ -1,6 +1,8 @@
 # 💫 About Me:
 hey, I'm rayyan — a first year mathematics student at the university of waterloo and a self-taught web developer focused on building clean, user-friendly web apps with python & react.
 
+if you're interested in my work, drop me a line on linkedin, and let's connect over matcha!
+
 ## 🚀 Featured Projects
 **check out my projects!**
 
