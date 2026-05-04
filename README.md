@@ -4,7 +4,7 @@ hey, I'm rayyan, a first-year mathematics student at the University of Waterloo,
 ## featured projects
 **check out my projects!**
 
-- [**NearMe**](https://nrme.site/) — location-based web app for discovering nearby places and services  
+- [**Finance Analyzer**](https://github.com/rayyanusmanii/Finance-Analyzer) — Python tool that automatically categorizes and visualizes spending from any CSV file
 - [**RezPlan**](https://rezplan.site/) — AI-powered budget planning app that learns your spending and generates personalized breakdowns  
 - [**LinkClean**](https://chromewebstore.google.com/detail/jmbnaldbichedgpjbmfjflgincclpgkh?utm_source=item-share-cb) — chrome extension that filters LinkedIn feeds to surface internship-relevant posts
  
