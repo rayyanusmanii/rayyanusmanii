@@ -5,7 +5,7 @@ hey, I'm rayyan, a first-year mathematics student at the University of Waterloo,
 **check out my projects!**
 
 - [**Finance Analyzer**](https://github.com/rayyanusmanii/Finance-Analyzer) — Python tool that automatically categorizes and visualizes spending from any CSV file
-- [**RezPlan**](https://rezplan.site/) — AI-powered budget planning app that learns your spending and generates personalized breakdowns  
+- [**Job Tracker**](https://github.com/rayyanusmanii/Job-Tracker.git) — Python tool to log, track, and analyze job applications with status breakdowns and response rate analytics
 - [**LinkClean**](https://chromewebstore.google.com/detail/jmbnaldbichedgpjbmfjflgincclpgkh?utm_source=item-share-cb) — chrome extension that filters LinkedIn feeds to surface internship-relevant posts
  
 
