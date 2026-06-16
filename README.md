@@ -1,13 +1,6 @@
 # about me
 hey, I'm rayyan, a first-year mathematics student at the University of Waterloo, interested in data analytics and building tools that turn raw data into clear insights.
 
-## featured projects
-**check out my projects!**
-
-- [**World Cup Historical Analysis**](https://github.com/rayyanusmanii/World-Cup-Analysis) — Jupyter notebook analyzing 90 years of FIFA World Cup data to uncover team performance trends, host advantage, and goal scoring patterns ahead of the 2026 tournament
-- [**Finance Analyzer**](https://github.com/rayyanusmanii/Finance-Analyzer) — Python tool that automatically categorizes and visualizes spending from any CSV file
-- [**Job Tracker**](https://github.com/rayyanusmanii/Job-Tracker.git) — Python tool to log, track, and analyze job applications with status breakdowns and response rate analytics
-
  
 
 ## socials:
