@@ -13,7 +13,6 @@ hey, I'm rayyan, a first-year mathematics student at the University of Waterloo,
 ![Flask-SocketIO](https://img.shields.io/badge/Flask--SocketIO-%23010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%23D71F00?style=for-the-badge&logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
