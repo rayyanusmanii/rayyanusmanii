@@ -6,7 +6,7 @@ hey, I'm rayyan, a first-year mathematics student at the University of Waterloo,
 **check out my projects!**
 - [**ChatBase**](https://github.com/rayyanusmanii/ChatBase) — Real-time messaging app built with Flask and Flask-SocketIO, supporting group chats, direct messages, and user authentication. Deployed on Railway
 - [**World Cup Historical Analysis**](https://github.com/rayyanusmanii/World-Cup-Analysis) — Jupyter notebook analyzing 90 years of FIFA World Cup data to uncover team performance trends, host advantage, and goal scoring patterns ahead of the 2026 tournament
-- [**Tech Layoffs SQL Analysis**](https://github.com/rayyanusmanii/layoffs-sql-analysis.git) — SQL queries to analyze global tech layoffs, identifying industry trends, repeat offenders, and companies that overhired relative to their funding.
+- [**Tech Layoffs SQL Analysis**](https://github.com/rayyanusmanii/layoffs-sql-analysis.git) — SQL queries to analyze global tech layoffs, identifying industry trends, repeat offenders, and companies that overhired relative to their funding. Includes a 4-chart Tableau dashboard visualizing layoffs by industry, country, trends, and top companies.
 - [**Finance Analyzer**](https://github.com/rayyanusmanii/Finance-Analyzer) — Python tool that automatically categorizes and visualizes spending from any CSV file
 
 
